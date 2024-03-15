@@ -5,8 +5,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Afroblman/blog-preview-card.git)
+- Live Site URL: [Netlify](https://blog-preview-card-fem.netlify.app/)
 
 
 ### Built with
